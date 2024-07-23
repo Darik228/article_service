@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-u5v@987z2qw3=zb+eh=jp9!ufzsv6#wf0+_z8m6s^(--+ehjd7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['article-service.herokuapp.com']
+ALLOWED_HOSTS = ['article-service-6fffa7322bab.herokuapp.com']
 
 
 # Application definition
@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'article_service.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dfrfjsnmhgvi7j',
-        'USER': 'u7203j5ojtuh4e',
-        'PASSWORD': 'p23bb44364f3b2848f244788f12b342b0dd9836be9857194b69cfe48ebd8bc018',
+        'NAME': 'dfn8q9id5t1tru',
+        'USER': 'u61efdkblbr564',
+        'PASSWORD': 'p479ddfa4ef3df5c5eef8d533b0aa76a2c35dfd412757c2117a7be3730e6eea65',
         'HOST': 'cah8ha8ra8h8i7.cluster-czz5s0kz4scl.eu-west-1.rds.amazonaws.com',
         'PORT': '5432',
     }
